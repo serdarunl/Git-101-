@@ -1,9 +1,9 @@
 # Git-101-
-<h1> İsim:</h1> Serdar <br>
-<h1> Soyisim: ÜNAL</h1> <br>
-<h1> Yaşadığı Şehir</h1>Gaziantep<br>
-<h1> Bölüm:</h1> Mekatronik Mühendisliği <br>
-<h1> Üniversite:</h1> Sakarya Uygulamalı Bilimler Üniversitesi <br>
-<h1> Email:</h1> serdarunalmekatronik@gmail.com<br>
-<h1> Hobiler: </h1>Basketbol oynamak, Müzik dinlemek,Bilgisayar Oyunları,
+<h3> İsim:</h3> Serdar <br>
+<h3> Soyisim:</h3> ÜNAL <br>
+<h3> Yaşadığı Şehir</h3>Gaziantep<br>
+<h3> Bölüm:</h3> Mekatronik Mühendisliği <br>
+<h3> Üniversite:</h3> Sakarya Uygulamalı Bilimler Üniversitesi <br>
+<h3> Email:</h3> serdarunalmekatronik@gmail.com<br>
+<h3> Hobiler: </h3>Basketbol oynamak, Müzik dinlemek,Bilgisayar Oyunları,
 yağmurlu havada yürüyüş,arkadaşlarla vakit geçirme
